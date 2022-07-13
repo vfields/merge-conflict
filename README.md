@@ -1,1 +1,3 @@
 # merge-conflict
+
+new line 
